@@ -9,7 +9,7 @@ previous arts:
 
  - [alexcarpenter/material-jekyll-theme](http://alexcarpenter.github.io/material-jekyll-theme)
  - [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material)
-
+test
 ## Usage
 
 ### 1. Get the code
@@ -24,7 +24,7 @@ cd docs
 ### 2. Customize
 
 To edit configuration values, customize the [_config.yml](https://github.com/vsoch/mkdocs-jekyll/blob/master/_config.yml).
-To add pages, write them into the [pages](https://github.com/vsoch/mkdocs-jekyll/tree/master/pages) folder. 
+To add pages, write them into the [pages](https://github.com/vsoch/mkdocs-jekyll/tree/master/pages) folder.
 You define urls based on the `permalink` attribute in your pages,
 and then add them to the navigation by adding to the content of [_data/toc.myl](https://github.com/vsoch/mkdocs-jekyll/blob/master/_data/toc.yml).
 
